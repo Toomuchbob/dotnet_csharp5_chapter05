@@ -1,0 +1,12 @@
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.deps.json
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.dll
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\ref\PacktLibrary9.dll
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.pdb
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csprojAssemblyReference.cache
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfoInputs.cache
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfo.cs
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csproj.CoreCompileInputs.cache
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.dll
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\ref\PacktLibrary9.dll
+C:\c#\c#9&.net5\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.pdb
